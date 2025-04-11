@@ -44,13 +44,15 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff" />
 </p>
 
-## 💼 Projets en vedette
+## 🚀 Projets en avant
 
-| Projet | Description | Techs |
-|--------|-------------|-------|
-| [Portfolio](https://pierre-gamen.netlify.app/) | Mon site perso, vitrine de mon parcours et de mes projets | Vue.js, SCSS |
-| [Jeu QCM PWA](#) *(en cours)* | Jeu éducatif indépendant avec scoring et progression | Vue 3, LocalStorage |
-| [Job Finder](#) *(en cours)* | Application de recherche et candidature automatique | Node.js, Firebase, API France Travail |
+| Projet                  | Description courte                                                                                           | Techno principales                          | Lien GitHub / Démo                                              |
+|-------------------------|----------------------------------------------------------------------------------------------------------------|---------------------------------------------|---------------------------------------------------------------|
+| **Let's Send**    | SaaS pour la gestion des commandes en cuisine et bar. API REST et mise à jour en temps réel avec WebSockets.    | Node.js, Express, React, Redux, PostgreSQL | [GitHub - Let's Send Client](https://github.com/PierreGAMEN/Lets_send_client) <br> [GitHub - Let's Send Core](https://github.com/PierreGAMEN/Lets_send_core) |
+| **O'Talent** | Plateforme de formation avec bibliothèque de cours divers.       | React, GraphQL, SCSS, Tailwind              | [GitHub - Let's Send Client](https://github.com/PierreGAMEN/OTalent-front)                                     |
+| **Addeus 2.0** | Intégration d'un site existant d'une entreprise. SCSS et Vue.js utilisés, animations recréées en SCSS.        | Vue.js, SCSS                               | [GitHub - Addeus 2.0](https://github.com/PierreGAMEN/Addeus-2.0) / [Lien vers le site](https://addeus-v2.netlify.app/) |
+
+
 
 ## 📊 Stats GitHub
 
