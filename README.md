@@ -1,6 +1,6 @@
 # 👋 Salut, moi c'est Pierre GAMEN
 
-🎯 Développeur web full stack en reconversion, passionné par la création d'applications modernes et utiles. Après 8 ans dans le management sportif, j’ai choisi de transformer ma passion pour la tech en métier. Aujourd’hui, je me spécialise en JavaScript, Vue.js/React et Node.js.
+🎯 Développeur web full stack, passionné par la création d'applications modernes et utiles. Après 8 ans dans le management sportif, j’ai choisi de transformer ma passion pour la tech en métier. Aujourd’hui, je me spécialise en JavaScript, Vue.js/React et Node.js.
 
 ## 🚀 Ce que je fais
 
