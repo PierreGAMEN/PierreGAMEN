@@ -7,7 +7,6 @@
 - 🧠 Je conçois des apps web performantes avec **Vue 3**, **React**, **Node.js**, **Express**, **Firebase** et **PostgreSQL**
 - 🧩 J'intègre des **API REST & GraphQL**, des **websockets (Socket.IO)**, et des architectures scalables
 - 📱 Je construis des interfaces modernes avec **SCSS**, **TailwindCSS**, **MUI** et d'autres librairies en fonction des besoins du projet.
-- 📚 J’apprends constamment pour viser à terme un poste de **CTO**
 
 ## 🛠️ Stack technique
 
