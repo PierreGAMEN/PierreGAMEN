@@ -52,17 +52,10 @@
 | **Addeus 2.0** | Intégration d'un site existant d'une entreprise. SCSS et Vue.js utilisés, animations recréées en SCSS.        | Vue.js, SCSS                               | [GitHub - Addeus 2.0](https://github.com/PierreGAMEN/Addeus-2.0) / [Lien vers le site](https://addeus-v2.netlify.app/) |
 
 
-
-## 📊 Stats GitHub
-
-![Pierre's GitHub stats](https://github-readme-stats.vercel.app/api?username=PierreGAMEN&show_icons=true&theme=default&hide=stars)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PierreGAMEN&layout=compact&hide=html)
-
 ## 📫 Me contacter
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/pierre-gamen/)
 - 🌐 [Portfolio](https://pierre-gamen.netlify.app/)
 - 📍 Annecy, France
-- 📬 Disponible pour un **CDI** ou des **projets freelance** à partir du **1er mai 2025**
 
 
